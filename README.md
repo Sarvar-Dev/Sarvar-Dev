@@ -6,4 +6,4 @@ I'm currently studying and I want to start working in my field soon.
 ### Languages and tools I with:
 
 <code><img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height=25></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4SCiVfw1Rnt0SATyn03W4EP-lhye5_XJmw&s" height=25></code>
+<code><img src="![image](https://github.com/user-attachments/assets/d762d4ff-a8c2-448d-8724-24654d7f1528)" height=25></code>
