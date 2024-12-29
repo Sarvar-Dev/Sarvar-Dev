@@ -6,4 +6,4 @@ I'm currently studying and I want to start working in my field soon.
 ### Languages and tools I with:
 
 <code><img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height=25></code>
-<code><img src="[https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png](https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png)" height=25></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4SCiVfw1Rnt0SATyn03W4EP-lhye5_XJmw&s" height=25></code>
