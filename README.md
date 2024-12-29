@@ -11,5 +11,5 @@ I'm currently studying and I want to start working in my field soon.
 <code><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" height=25></code>
 
 <br />
-- 📍 &nbsp; Current location: Kashkadarya, Uzbekistan
+- 📍 &nbsp; Current location: Kashkadarya, Uzbekistan <br />
 - 🔗 &nbsp; How to reach me: [@sarvarr.q](https://instagram.com/sarvarr.q/)
